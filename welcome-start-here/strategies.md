@@ -16,13 +16,13 @@ There are countless strategies, and which one you choose depends on your risk to
 If $SPARK is OVER the peg:
 
 -Buy $SPARK and pair it with $ETH to provide liquidity, and stake your SPARK-FTM LP in the cemetery to earn $REACTOR rewards.
--Take your $REACTOR rewards and stake them in the Masonry to earn inflationary $SPARK rewards.
+-Take your $REACTOR rewards and stake them in the Boardroom to earn inflationary $SPARK rewards.
 -Sell half of your earned $SPARK for $ETH, and compound it back into the SPARK-FTM LP.
 -Profit!
 
 If $SPARK is UNDER the peg:
 
-1.Buy SPARK and exchange it for RODS. If you are LP'ing, you can break the LP to exchange $SPARK for $RODS, and use the remaining $ETH to buy $SPARK to also exchange for $RODS. Now you have a big fat bag of $RODS, and you've also helped bring $SPARK back above peg so that the Masonry can resume printing.
+1.Buy SPARK and exchange it for RODS. If you are LP'ing, you can break the LP to exchange $SPARK for $RODS, and use the remaining $ETH to buy $SPARK to also exchange for $RODS. Now you have a big fat bag of $RODS, and you've also helped bring $SPARK back above peg so that the Boardroom can resume printing.
 
 2.Sell $RODS for a redemption bonus once $SPARK is back over peg (above 1.1 TWAP).
 
