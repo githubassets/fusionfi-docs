@@ -6,6 +6,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](welcome-start-here/faq-getting-started.md)
+  * [How to Buy](welcome-start-here/faq-getting-started/how-to-buy-spark.md)
 * [Strategies](welcome-start-here/strategies.md)
 
 ## Protocol
